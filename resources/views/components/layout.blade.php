@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --uic-pink: #d81b60; /* Deep UIC Pink */
+            --uic-pink: #d81b60;
             --uic-light-pink: #fce4ec;
             --uic-gradient: linear-gradient(135deg, #d81b60 0%, #ad1457 100%);
         }
